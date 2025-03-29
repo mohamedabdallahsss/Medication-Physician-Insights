@@ -35,9 +35,9 @@ The dataset simulates pharmaceutical survey responses and includes:
 
 ## 📂 Repository Contents
 
-- `/data`: Contains raw and cleaned datasets
-- `/notebooks`: Jupyter notebook for data cleaning and exploratory analysis
-- `/dashboard`: Power BI `.pbix` file used to build interactive dashboards
+-  Contains raw and cleaned datasets
+-  Jupyter notebook for data cleaning and exploratory analysis
+-  Power BI `.pbix` file used to build interactive dashboards
 
 ---
 
