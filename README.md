@@ -56,7 +56,7 @@ The dataset simulates pharmaceutical survey responses and includes:
 ## 📬 Contact
 
 **M. Abdallah**  
-[LinkedIn Profile](https://www.linkedin.com/in/mohamed-abdallah-paris/) | mohamedabdallah.fr | Mohamed.ps96@gmail.com
+[LinkedIn Profile](https://www.linkedin.com/in/mohamed-abdallah-paris/) | [Portofolio](mohamedabdallah.fr) | Mohamed.ps96@gmail.com
 
 ---
 
